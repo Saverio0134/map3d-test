@@ -1,0 +1,6 @@
+{
+  "name": "Urbano 3D",
+  "description": "Editor urbano 3D interattivo con deck.gl, edifici OpenFreeMap e alberi procedurali 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
